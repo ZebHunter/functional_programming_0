@@ -30,7 +30,10 @@
 <div style="text-align: right"> 
 <i>Programming languages matter. They affect the reliability, security, and efficiency of the code you write, as well as how easy it is to read, refactor, and extend. The languages you know can also change how you think, influencing the way you design software even when you’re not using them.
 </i>
+</div>
 
+
+<div style="text-align: right"> 
  -- OCaml Documentation 
 </div>
 
@@ -57,7 +60,10 @@
 
 <div style="text-align: right"><i> Кто хочет стать водителем людей, должен в течение доброго промежутка времени слыть среди них их опаснейшим врагом.
 </i>
+</div>
 
+
+<div style="text-align: right">
 -- Ф. Ницше
 </div>
 
@@ -90,9 +96,12 @@
 <div style="text-align: right">
 <i>"Можно прославиться и единственным недостатком" - успокаивали Ахиллеса коллеги"
 </i>
-
--- цитата из Интернетов
 </div>
+
+
+<p style="text-align: right;">
+-- цитата из Интернетов
+</p>
 
 ***
 
