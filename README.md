@@ -25,7 +25,7 @@
 
 Ну что ж, когда мы определились с целями, давайте начнем ресерч
 
-## Часть 1 - OCaml, сын ML
+## Часть 1 - OCaml
 
 <div style="text-align: right"> 
 <i>Programming languages matter. They affect the reliability, security, and efficiency of the code you write, as well as how easy it is to read, refactor, and extend. The languages you know can also change how you think, influencing the way you design software even when you’re not using them.
@@ -39,7 +39,7 @@
 
 ***
 
-Чтобы растянуть эту главу, давайте напишем основные особенности OCaml:
+Чтобы не растягивать эту главу, давайте напишем основные особенности OCaml в формате перечисления:
 
 - Производительность
 - Строгая статическая типизация
